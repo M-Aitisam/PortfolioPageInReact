@@ -1,2 +1,2 @@
 # PortfolioPageInReact
- 👉 Created a Simple Portfolio Page using React ✨
+ 👉 Created a Simple Portfolio Page using React  using Tailwind CSS✨
