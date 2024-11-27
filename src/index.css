@@ -13,3 +13,7 @@ body{
 #cards::-webkit-scrollbar{
   display: none;
 }
+#cards {
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
